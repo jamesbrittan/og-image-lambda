@@ -95,14 +95,12 @@ exports.handler = (event, context, callback) => {
       // console.log(res.data[0])
       // console.log(qs.stringify(event.queryStringParameters))
 
-      const image = drawImage(JSON.stringify(res.data[0]))
-      console.log(image)
-      console.log("test")
+      const image = drawImage(JSON.stringify(res.data[12]))
 
       callback(null, {
         statusCode: 200,
         // body: JSON.stringires[0],
-        body: JSON.stringify({ ...res.data[0], image: image }),
+        body: JSON.stringify({ ...res.data[12], image: image }),
       })
     })
     .catch(err => {
