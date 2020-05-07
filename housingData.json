@@ -1,0 +1,1874 @@
+[
+  {
+    "localAuth": "Adur",
+    "localAuthShortname": "adur",
+    "waitingList": "854",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Amber Valley",
+    "localAuthShortname": "amber-valley",
+    "waitingList": "1,791",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Arun",
+    "localAuthShortname": "arun",
+    "waitingList": "839",
+    "housesBuilt": 12
+  },
+  {
+    "localAuth": "Ashfield",
+    "localAuthShortname": "ashfield",
+    "waitingList": "3,346",
+    "housesBuilt": 7
+  },
+  {
+    "localAuth": "Ashford",
+    "localAuthShortname": "ashford",
+    "waitingList": "1,129",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Aylesbury Vale",
+    "localAuthShortname": "aylesbury-vale",
+    "waitingList": "3,686",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "Babergh",
+    "localAuthShortname": "babergh",
+    "waitingList": "748",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Barking and Dagenham",
+    "localAuthShortname": "barking-and-dagenham",
+    "waitingList": "4,587",
+    "housesBuilt": 45
+  },
+  {
+    "localAuth": "Barnet",
+    "localAuthShortname": "barnet",
+    "waitingList": "2,648",
+    "housesBuilt": 8
+  },
+  {
+    "localAuth": "Barnsley",
+    "localAuthShortname": "barnsley",
+    "waitingList": "3,888",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Barrow-in-Furness",
+    "localAuthShortname": "barrow-in-furness",
+    "waitingList": "1,182",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Basildon",
+    "localAuthShortname": "basildon",
+    "waitingList": "1,169",
+    "housesBuilt": 48
+  },
+  {
+    "localAuth": "Basingstoke and Deane",
+    "localAuthShortname": "basingstoke-and-deane",
+    "waitingList": "3,674",
+    "housesBuilt": 66
+  },
+  {
+    "localAuth": "Bassetlaw",
+    "localAuthShortname": "bassetlaw",
+    "waitingList": "3,326",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bath and North East Somerset",
+    "localAuthShortname": "bath-and-north-east-somerset",
+    "waitingList": "4,084",
+    "housesBuilt": 118
+  },
+  {
+    "localAuth": "Bedford",
+    "localAuthShortname": "bedford",
+    "waitingList": "1,085",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bexley",
+    "localAuthShortname": "bexley",
+    "waitingList": "6,613",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Birmingham",
+    "localAuthShortname": "birmingham",
+    "waitingList": "6,398",
+    "housesBuilt": 147
+  },
+  {
+    "localAuth": "Blaby",
+    "localAuthShortname": "blaby",
+    "waitingList": "396",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Blackburn with Darwen",
+    "localAuthShortname": "blackburn-with-darwen",
+    "waitingList": "3,381",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Blackpool",
+    "localAuthShortname": "blackpool",
+    "waitingList": "5,954",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bolsover",
+    "localAuthShortname": "bolsover",
+    "waitingList": "1,205",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bolton",
+    "localAuthShortname": "bolton",
+    "waitingList": "31,788",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Boston",
+    "localAuthShortname": "boston",
+    "waitingList": "1,814",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bournemouth, Christchurch and Poole",
+    "localAuthShortname": "bournemouth-christchurch-and-poole",
+    "waitingList": "5,734",
+    "housesBuilt": 7
+  },
+  {
+    "localAuth": "Bracknell Forest",
+    "localAuthShortname": "bracknell-forest",
+    "waitingList": "1,562",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bradford",
+    "localAuthShortname": "bradford",
+    "waitingList": "11,826",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Braintree",
+    "localAuthShortname": "braintree",
+    "waitingList": "2,749",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "Breckland",
+    "localAuthShortname": "breckland",
+    "waitingList": "858",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "Brent",
+    "localAuthShortname": "brent",
+    "waitingList": "3,498",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Brentwood",
+    "localAuthShortname": "brentwood",
+    "waitingList": "626",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Brighton and Hove",
+    "localAuthShortname": "brighton-and-hove",
+    "waitingList": "14,785",
+    "housesBuilt": 2
+  },
+  {
+    "localAuth": "Bristol",
+    "localAuthShortname": "bristol",
+    "waitingList": "11,693",
+    "housesBuilt": 75
+  },
+  {
+    "localAuth": "Broadland",
+    "localAuthShortname": "broadland",
+    "waitingList": "2,260",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bromley",
+    "localAuthShortname": "bromley",
+    "waitingList": "3,438",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bromsgrove",
+    "localAuthShortname": "bromsgrove",
+    "waitingList": "2,378",
+    "housesBuilt": 82
+  },
+  {
+    "localAuth": "Broxbourne",
+    "localAuthShortname": "broxbourne",
+    "waitingList": "1,715",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Broxtowe",
+    "localAuthShortname": "broxtowe",
+    "waitingList": "1,474",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Burnley",
+    "localAuthShortname": "burnley",
+    "waitingList": "1,359",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Bury",
+    "localAuthShortname": "bury",
+    "waitingList": "1,211",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Calderdale",
+    "localAuthShortname": "calderdale",
+    "waitingList": "2,561",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Cambridge",
+    "localAuthShortname": "cambridge",
+    "waitingList": "2,372",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Camden",
+    "localAuthShortname": "camden",
+    "waitingList": "3,074",
+    "housesBuilt": 24
+  },
+  {
+    "localAuth": "Cannock Chase",
+    "localAuthShortname": "cannock-chase",
+    "waitingList": "886",
+    "housesBuilt": 71
+  },
+  {
+    "localAuth": "Canterbury",
+    "localAuthShortname": "canterbury",
+    "waitingList": "2,314",
+    "housesBuilt": 20
+  },
+  {
+    "localAuth": "Carlisle",
+    "localAuthShortname": "carlisle",
+    "waitingList": "3,961",
+    "housesBuilt": 10
+  },
+  {
+    "localAuth": "Castle Point",
+    "localAuthShortname": "castle-point",
+    "waitingList": "539",
+    "housesBuilt": 2
+  },
+  {
+    "localAuth": "Central Bedfordshire",
+    "localAuthShortname": "central-bedfordshire",
+    "waitingList": "1,611",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Charnwood",
+    "localAuthShortname": "charnwood",
+    "waitingList": "2,553",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Chelmsford",
+    "localAuthShortname": "chelmsford",
+    "waitingList": "3,939",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Cheltenham",
+    "localAuthShortname": "cheltenham",
+    "waitingList": "2,223",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Cherwell",
+    "localAuthShortname": "cherwell",
+    "waitingList": "1,179",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Cheshire East",
+    "localAuthShortname": "cheshire-east",
+    "waitingList": "7,931",
+    "housesBuilt": 81
+  },
+  {
+    "localAuth": "Cheshire West and Chester",
+    "localAuthShortname": "cheshire-west-and-chester",
+    "waitingList": "6,204",
+    "housesBuilt": 14
+  },
+  {
+    "localAuth": "Chesterfield",
+    "localAuthShortname": "chesterfield",
+    "waitingList": "1,342",
+    "housesBuilt": 3
+  },
+  {
+    "localAuth": "Chichester",
+    "localAuthShortname": "chichester",
+    "waitingList": "1,162",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Chiltern",
+    "localAuthShortname": "chiltern",
+    "waitingList": "420",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Chorley",
+    "localAuthShortname": "chorley",
+    "waitingList": "772",
+    "housesBuilt": 105
+  },
+  {
+    "localAuth": "City of London",
+    "localAuthShortname": "city-of-london",
+    "waitingList": "656",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Colchester",
+    "localAuthShortname": "colchester",
+    "waitingList": "4,392",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Copeland",
+    "localAuthShortname": "copeland",
+    "waitingList": "1,390",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Corby",
+    "localAuthShortname": "corby",
+    "waitingList": "1,192",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Cornwall",
+    "localAuthShortname": "cornwall",
+    "waitingList": "18,126",
+    "housesBuilt": 47
+  },
+  {
+    "localAuth": "Cotswold",
+    "localAuthShortname": "cotswold",
+    "waitingList": "1,677",
+    "housesBuilt": 2
+  },
+  {
+    "localAuth": "County Durham",
+    "localAuthShortname": "county-durham",
+    "waitingList": "8,451",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Coventry",
+    "localAuthShortname": "coventry",
+    "waitingList": "13,632",
+    "housesBuilt": 89
+  },
+  {
+    "localAuth": "Craven",
+    "localAuthShortname": "craven",
+    "waitingList": "396",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Crawley",
+    "localAuthShortname": "crawley",
+    "waitingList": "1,329",
+    "housesBuilt": 44
+  },
+  {
+    "localAuth": "Croydon",
+    "localAuthShortname": "croydon",
+    "waitingList": "5,138",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Dacorum",
+    "localAuthShortname": "dacorum",
+    "waitingList": "6,177",
+    "housesBuilt": 151
+  },
+  {
+    "localAuth": "Darlington",
+    "localAuthShortname": "darlington",
+    "waitingList": "1,577",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Dartford",
+    "localAuthShortname": "dartford",
+    "waitingList": "1,134",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Daventry",
+    "localAuthShortname": "daventry",
+    "waitingList": "1,045",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Derby",
+    "localAuthShortname": "derby",
+    "waitingList": "2,676",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Derbyshire Dales",
+    "localAuthShortname": "derbyshire-dales",
+    "waitingList": "711",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Doncaster",
+    "localAuthShortname": "doncaster",
+    "waitingList": "10,143",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Dorset",
+    "localAuthShortname": "dorset",
+    "waitingList": "5,118",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Dover",
+    "localAuthShortname": "dover",
+    "waitingList": "1,603",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Dudley",
+    "localAuthShortname": "dudley",
+    "waitingList": "2,143",
+    "housesBuilt": 43
+  },
+  {
+    "localAuth": "Ealing",
+    "localAuthShortname": "ealing",
+    "waitingList": "13,685",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "East Cambridgeshire",
+    "localAuthShortname": "east-cambridgeshire",
+    "waitingList": "1,678",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "East Devon",
+    "localAuthShortname": "east-devon",
+    "waitingList": "3,914",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "East Hampshire",
+    "localAuthShortname": "east-hampshire",
+    "waitingList": "1,307",
+    "housesBuilt": 25
+  },
+  {
+    "localAuth": "East Hertfordshire",
+    "localAuthShortname": "east-hertfordshire",
+    "waitingList": "2,039",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "East Lindsey",
+    "localAuthShortname": "east-lindsey",
+    "waitingList": "1,526",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "East Northamptonshire",
+    "localAuthShortname": "east-northamptonshire",
+    "waitingList": "1,163",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "East Riding of Yorkshire",
+    "localAuthShortname": "east-riding-of-yorkshire",
+    "waitingList": "6,337",
+    "housesBuilt": 83
+  },
+  {
+    "localAuth": "East Staffordshire",
+    "localAuthShortname": "east-staffordshire",
+    "waitingList": "1,915",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "East Suffolk",
+    "localAuthShortname": "east-suffolk",
+    "waitingList": "3,905",
+    "housesBuilt": 20
+  },
+  {
+    "localAuth": "Eastleigh",
+    "localAuthShortname": "eastleigh",
+    "waitingList": "1,871",
+    "housesBuilt": 21
+  },
+  {
+    "localAuth": "Eden",
+    "localAuthShortname": "eden",
+    "waitingList": "1,011",
+    "housesBuilt": 12
+  },
+  {
+    "localAuth": "Elmbridge",
+    "localAuthShortname": "elmbridge",
+    "waitingList": "2,152",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "Enfield",
+    "localAuthShortname": "enfield",
+    "waitingList": "3,444",
+    "housesBuilt": 25
+  },
+  {
+    "localAuth": "Epping Forest",
+    "localAuthShortname": "epping-forest",
+    "waitingList": "1,376",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Epsom and Ewell",
+    "localAuthShortname": "epsom-and-ewell",
+    "waitingList": "792",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Erewash",
+    "localAuthShortname": "erewash",
+    "waitingList": "1,687",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Exeter",
+    "localAuthShortname": "exeter",
+    "waitingList": "1,772",
+    "housesBuilt": 88
+  },
+  {
+    "localAuth": "Fareham",
+    "localAuthShortname": "fareham",
+    "waitingList": "1,003",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Fenland",
+    "localAuthShortname": "fenland",
+    "waitingList": "2,578",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Folkestone and Hythe",
+    "localAuthShortname": "folkestone-and-hythe",
+    "waitingList": "1,028",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Forest of Dean",
+    "localAuthShortname": "forest-of-dean",
+    "waitingList": "1,966",
+    "housesBuilt": 8
+  },
+  {
+    "localAuth": "Fylde",
+    "localAuthShortname": "fylde",
+    "waitingList": "4,450",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Gateshead",
+    "localAuthShortname": "gateshead",
+    "waitingList": "5,397",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Gedling",
+    "localAuthShortname": "gedling",
+    "waitingList": "728",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Gloucester",
+    "localAuthShortname": "gloucester",
+    "waitingList": "4,096",
+    "housesBuilt": 20
+  },
+  {
+    "localAuth": "Gosport",
+    "localAuthShortname": "gosport",
+    "waitingList": "1,060",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Gravesham",
+    "localAuthShortname": "gravesham",
+    "waitingList": "2,399",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Great Yarmouth",
+    "localAuthShortname": "great-yarmouth",
+    "waitingList": "258",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Greenwich",
+    "localAuthShortname": "greenwich",
+    "waitingList": "13,618",
+    "housesBuilt": 10
+  },
+  {
+    "localAuth": "Guildford",
+    "localAuthShortname": "guildford",
+    "waitingList": "2,197",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Hackney",
+    "localAuthShortname": "hackney",
+    "waitingList": "12,766",
+    "housesBuilt": 225
+  },
+  {
+    "localAuth": "Halton",
+    "localAuthShortname": "halton",
+    "waitingList": "1,552",
+    "housesBuilt": 92
+  },
+  {
+    "localAuth": "Hambleton",
+    "localAuthShortname": "hambleton",
+    "waitingList": "1,224",
+    "housesBuilt": 18
+  },
+  {
+    "localAuth": "Hammersmith and Fulham",
+    "localAuthShortname": "hammersmith-and-fulham",
+    "waitingList": "1,644",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Harborough",
+    "localAuthShortname": "harborough",
+    "waitingList": "1,053",
+    "housesBuilt": 107
+  },
+  {
+    "localAuth": "Haringey",
+    "localAuthShortname": "haringey",
+    "waitingList": "9,650",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Harlow",
+    "localAuthShortname": "harlow",
+    "waitingList": "2,965",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Harrogate",
+    "localAuthShortname": "harrogate",
+    "waitingList": "1,425",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Harrow",
+    "localAuthShortname": "harrow",
+    "waitingList": "1,883",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Hart",
+    "localAuthShortname": "hart",
+    "waitingList": "1,367",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Hartlepool",
+    "localAuthShortname": "hartlepool",
+    "waitingList": "2,505",
+    "housesBuilt": 18
+  },
+  {
+    "localAuth": "Hastings",
+    "localAuthShortname": "hastings",
+    "waitingList": "1,578",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Havant",
+    "localAuthShortname": "havant",
+    "waitingList": "1,782",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Havering",
+    "localAuthShortname": "havering",
+    "waitingList": "2,234",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Herefordshire, County of",
+    "localAuthShortname": "herefordshire-county-of",
+    "waitingList": "1,270",
+    "housesBuilt": 13
+  },
+  {
+    "localAuth": "Hertsmere",
+    "localAuthShortname": "hertsmere",
+    "waitingList": "562",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "High Peak",
+    "localAuthShortname": "high-peak",
+    "waitingList": "973",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Hillingdon",
+    "localAuthShortname": "hillingdon",
+    "waitingList": "1,687",
+    "housesBuilt": 17
+  },
+  {
+    "localAuth": "Hinckley and Bosworth",
+    "localAuthShortname": "hinckley-and-bosworth",
+    "waitingList": "1,095",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Horsham",
+    "localAuthShortname": "horsham",
+    "waitingList": "592",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Hounslow",
+    "localAuthShortname": "hounslow",
+    "waitingList": "2,157",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Huntingdonshire",
+    "localAuthShortname": "huntingdonshire",
+    "waitingList": "3,616",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Hyndburn",
+    "localAuthShortname": "hyndburn",
+    "waitingList": "1,432",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Ipswich",
+    "localAuthShortname": "ipswich",
+    "waitingList": "2,899",
+    "housesBuilt": 15
+  },
+  {
+    "localAuth": "Isle of Wight",
+    "localAuthShortname": "isle-of-wight",
+    "waitingList": "2,061",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Isles of Scilly",
+    "localAuthShortname": "isles-of-scilly",
+    "waitingList": "58",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Islington",
+    "localAuthShortname": "islington",
+    "waitingList": "14,469",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Kensington and Chelsea",
+    "localAuthShortname": "kensington-and-chelsea",
+    "waitingList": "3,330",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Kettering",
+    "localAuthShortname": "kettering",
+    "waitingList": "606",
+    "housesBuilt": 2
+  },
+  {
+    "localAuth": "King's Lynn and West Norfolk",
+    "localAuthShortname": "king's-lynn-and-west-norfolk",
+    "waitingList": "891",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Kingston upon Hull",
+    "localAuthShortname": "kingston-upon-hull",
+    "waitingList": "6,852",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Kingston upon Thames",
+    "localAuthShortname": "kingston-upon-thames",
+    "waitingList": "9,732",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Kirklees",
+    "localAuthShortname": "kirklees",
+    "waitingList": "10,977",
+    "housesBuilt": 46
+  },
+  {
+    "localAuth": "Knowsley",
+    "localAuthShortname": "knowsley",
+    "waitingList": "2,496",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Lambeth",
+    "localAuthShortname": "lambeth",
+    "waitingList": "23,364",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Lancaster",
+    "localAuthShortname": "lancaster",
+    "waitingList": "1,753",
+    "housesBuilt": 52
+  },
+  {
+    "localAuth": "Leeds",
+    "localAuthShortname": "leeds",
+    "waitingList": "17,198",
+    "housesBuilt": 58
+  },
+  {
+    "localAuth": "Leicester",
+    "localAuthShortname": "leicester",
+    "waitingList": "4,442",
+    "housesBuilt": 2
+  },
+  {
+    "localAuth": "Lewes",
+    "localAuthShortname": "lewes",
+    "waitingList": "1,222",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Lewisham",
+    "localAuthShortname": "lewisham",
+    "waitingList": "9,921",
+    "housesBuilt": 47
+  },
+  {
+    "localAuth": "Lichfield",
+    "localAuthShortname": "lichfield",
+    "waitingList": "1,008",
+    "housesBuilt": 54
+  },
+  {
+    "localAuth": "Lincoln",
+    "localAuthShortname": "lincoln",
+    "waitingList": "1,242",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Liverpool",
+    "localAuthShortname": "liverpool",
+    "waitingList": "17,873",
+    "housesBuilt": 3
+  },
+  {
+    "localAuth": "Luton",
+    "localAuthShortname": "luton",
+    "waitingList": "13,150",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Maidstone",
+    "localAuthShortname": "maidstone",
+    "waitingList": "618",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Maldon",
+    "localAuthShortname": "maldon",
+    "waitingList": "936",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Malvern Hills",
+    "localAuthShortname": "malvern-hills",
+    "waitingList": "1,324",
+    "housesBuilt": 60
+  },
+  {
+    "localAuth": "Manchester",
+    "localAuthShortname": "manchester",
+    "waitingList": "13,466",
+    "housesBuilt": 28
+  },
+  {
+    "localAuth": "Mansfield",
+    "localAuthShortname": "mansfield",
+    "waitingList": "6,304",
+    "housesBuilt": 3
+  },
+  {
+    "localAuth": "Medway",
+    "localAuthShortname": "medway",
+    "waitingList": "9,303",
+    "housesBuilt": 38
+  },
+  {
+    "localAuth": "Melton",
+    "localAuthShortname": "melton",
+    "waitingList": "858",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Mendip",
+    "localAuthShortname": "mendip",
+    "waitingList": "1,402",
+    "housesBuilt": 85
+  },
+  {
+    "localAuth": "Merton",
+    "localAuthShortname": "merton",
+    "waitingList": "9,802",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Mid Devon",
+    "localAuthShortname": "mid-devon",
+    "waitingList": "1,922",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Mid Suffolk",
+    "localAuthShortname": "mid-suffolk",
+    "waitingList": "627",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Mid Sussex",
+    "localAuthShortname": "mid-sussex",
+    "waitingList": "1,273",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Middlesbrough",
+    "localAuthShortname": "middlesbrough",
+    "waitingList": "2,965",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Mole Valley",
+    "localAuthShortname": "mole-valley",
+    "waitingList": "514",
+    "housesBuilt": 10
+  },
+  {
+    "localAuth": "New Forest",
+    "localAuthShortname": "new-forest",
+    "waitingList": "3,062",
+    "housesBuilt": 18
+  },
+  {
+    "localAuth": "Newark and Sherwood",
+    "localAuthShortname": "newark-and-sherwood",
+    "waitingList": "2,252",
+    "housesBuilt": 20
+  },
+  {
+    "localAuth": "Newcastle-under-Lyme",
+    "localAuthShortname": "newcastle-under-lyme",
+    "waitingList": "1,122",
+    "housesBuilt": 10
+  },
+  {
+    "localAuth": "Newcastle upon Tyne",
+    "localAuthShortname": "newcastle-upon-tyne",
+    "waitingList": "7,622",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Newham",
+    "localAuthShortname": "newham",
+    "waitingList": "26,139",
+    "housesBuilt": 25
+  },
+  {
+    "localAuth": "North Devon",
+    "localAuthShortname": "north-devon",
+    "waitingList": "2,634",
+    "housesBuilt": 73
+  },
+  {
+    "localAuth": "North East Derbyshire",
+    "localAuthShortname": "north-east-derbyshire",
+    "waitingList": "2,155",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "North East Lincolnshire",
+    "localAuthShortname": "north-east-lincolnshire",
+    "waitingList": "3,635",
+    "housesBuilt": 6
+  },
+  {
+    "localAuth": "North Hertfordshire",
+    "localAuthShortname": "north-hertfordshire",
+    "waitingList": "1,945",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "North Kesteven",
+    "localAuthShortname": "north-kesteven",
+    "waitingList": "890",
+    "housesBuilt": 7
+  },
+  {
+    "localAuth": "North Lincolnshire",
+    "localAuthShortname": "north-lincolnshire",
+    "waitingList": "3,410",
+    "housesBuilt": 8
+  },
+  {
+    "localAuth": "North Norfolk",
+    "localAuthShortname": "north-norfolk",
+    "waitingList": "2,636",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "North Somerset",
+    "localAuthShortname": "north-somerset",
+    "waitingList": "3,443",
+    "housesBuilt": 25
+  },
+  {
+    "localAuth": "North Tyneside",
+    "localAuthShortname": "north-tyneside",
+    "waitingList": "3,529",
+    "housesBuilt": 26
+  },
+  {
+    "localAuth": "North Warwickshire",
+    "localAuthShortname": "north-warwickshire",
+    "waitingList": "315",
+    "housesBuilt": 64
+  },
+  {
+    "localAuth": "North West Leicestershire",
+    "localAuthShortname": "north-west-leicestershire",
+    "waitingList": "545",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Northampton",
+    "localAuthShortname": "northampton",
+    "waitingList": "2,753",
+    "housesBuilt": 32
+  },
+  {
+    "localAuth": "Northumberland",
+    "localAuthShortname": "northumberland",
+    "waitingList": "9,196",
+    "housesBuilt": 8
+  },
+  {
+    "localAuth": "Norwich",
+    "localAuthShortname": "norwich",
+    "waitingList": "4,024",
+    "housesBuilt": 62
+  },
+  {
+    "localAuth": "Nottingham",
+    "localAuthShortname": "nottingham",
+    "waitingList": "5,501",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Nuneaton and Bedworth",
+    "localAuthShortname": "nuneaton-and-bedworth",
+    "waitingList": "460",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Oadby and Wigston",
+    "localAuthShortname": "oadby-and-wigston",
+    "waitingList": "253",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Oldham",
+    "localAuthShortname": "oldham",
+    "waitingList": "21,055",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Oxford",
+    "localAuthShortname": "oxford",
+    "waitingList": "1,620",
+    "housesBuilt": 17
+  },
+  {
+    "localAuth": "Pendle",
+    "localAuthShortname": "pendle",
+    "waitingList": "1,478",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Peterborough",
+    "localAuthShortname": "peterborough",
+    "waitingList": "2,755",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Plymouth",
+    "localAuthShortname": "plymouth",
+    "waitingList": "9,719",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Portsmouth",
+    "localAuthShortname": "portsmouth",
+    "waitingList": "1,023",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Preston",
+    "localAuthShortname": "preston",
+    "waitingList": "2,776",
+    "housesBuilt": 14
+  },
+  {
+    "localAuth": "Reading",
+    "localAuthShortname": "reading",
+    "waitingList": "4,710",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Redbridge",
+    "localAuthShortname": "redbridge",
+    "waitingList": "5,408",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Redcar and Cleveland",
+    "localAuthShortname": "redcar-and-cleveland",
+    "waitingList": "1,990",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Redditch",
+    "localAuthShortname": "redditch",
+    "waitingList": "1,334",
+    "housesBuilt": 51
+  },
+  {
+    "localAuth": "Reigate and Banstead",
+    "localAuthShortname": "reigate-and-banstead",
+    "waitingList": "563",
+    "housesBuilt": 23
+  },
+  {
+    "localAuth": "Ribble Valley",
+    "localAuthShortname": "ribble-valley",
+    "waitingList": "956",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Richmondshire",
+    "localAuthShortname": "richmondshire",
+    "waitingList": "345",
+    "housesBuilt": 14
+  },
+  {
+    "localAuth": "Rochdale",
+    "localAuthShortname": "rochdale",
+    "waitingList": "6,085",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Rochford",
+    "localAuthShortname": "rochford",
+    "waitingList": "638",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Rossendale",
+    "localAuthShortname": "rossendale",
+    "waitingList": "1,426",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Rother",
+    "localAuthShortname": "rother",
+    "waitingList": "1,371",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Rotherham",
+    "localAuthShortname": "rotherham",
+    "waitingList": "6,674",
+    "housesBuilt": 22
+  },
+  {
+    "localAuth": "Rugby",
+    "localAuthShortname": "rugby",
+    "waitingList": "1,092",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Runnymede",
+    "localAuthShortname": "runnymede",
+    "waitingList": "937",
+    "housesBuilt": 6
+  },
+  {
+    "localAuth": "Rushcliffe",
+    "localAuthShortname": "rushcliffe",
+    "waitingList": "557",
+    "housesBuilt": 29
+  },
+  {
+    "localAuth": "Rushmoor",
+    "localAuthShortname": "rushmoor",
+    "waitingList": "1,204",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Rutland",
+    "localAuthShortname": "rutland",
+    "waitingList": "297",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Ryedale",
+    "localAuthShortname": "ryedale",
+    "waitingList": "619",
+    "housesBuilt": 17
+  },
+  {
+    "localAuth": "Salford",
+    "localAuthShortname": "salford",
+    "waitingList": "5,867",
+    "housesBuilt": 24
+  },
+  {
+    "localAuth": "Sandwell",
+    "localAuthShortname": "sandwell",
+    "waitingList": "2,946",
+    "housesBuilt": 6
+  },
+  {
+    "localAuth": "Scarborough",
+    "localAuthShortname": "scarborough",
+    "waitingList": "2,169",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Sedgemoor",
+    "localAuthShortname": "sedgemoor",
+    "waitingList": "2,036",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Sefton",
+    "localAuthShortname": "sefton",
+    "waitingList": "4,759",
+    "housesBuilt": 11
+  },
+  {
+    "localAuth": "Selby",
+    "localAuthShortname": "selby",
+    "waitingList": "630",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Sevenoaks",
+    "localAuthShortname": "sevenoaks",
+    "waitingList": "755",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Sheffield",
+    "localAuthShortname": "sheffield",
+    "waitingList": "25,356",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Shropshire",
+    "localAuthShortname": "shropshire",
+    "waitingList": "5,324",
+    "housesBuilt": 15
+  },
+  {
+    "localAuth": "Slough",
+    "localAuthShortname": "slough",
+    "waitingList": "2,531",
+    "housesBuilt": 106
+  },
+  {
+    "localAuth": "Solihull",
+    "localAuthShortname": "solihull",
+    "waitingList": "7,822",
+    "housesBuilt": 84
+  },
+  {
+    "localAuth": "Somerset West and Taunton",
+    "localAuthShortname": "somerset-west-and-taunton",
+    "waitingList": "2,680",
+    "housesBuilt": 50
+  },
+  {
+    "localAuth": "South Bucks",
+    "localAuthShortname": "south-bucks",
+    "waitingList": "391",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Cambridgeshire",
+    "localAuthShortname": "south-cambridgeshire",
+    "waitingList": "2,269",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Derbyshire",
+    "localAuthShortname": "south-derbyshire",
+    "waitingList": "644",
+    "housesBuilt": 222
+  },
+  {
+    "localAuth": "South Gloucestershire",
+    "localAuthShortname": "south-gloucestershire",
+    "waitingList": "3,909",
+    "housesBuilt": 272
+  },
+  {
+    "localAuth": "South Hams",
+    "localAuthShortname": "south-hams",
+    "waitingList": "1,356",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Holland",
+    "localAuthShortname": "south-holland",
+    "waitingList": "468",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Kesteven",
+    "localAuthShortname": "south-kesteven",
+    "waitingList": "2,995",
+    "housesBuilt": 27
+  },
+  {
+    "localAuth": "South Lakeland",
+    "localAuthShortname": "south-lakeland",
+    "waitingList": "3,225",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Norfolk",
+    "localAuthShortname": "south-norfolk",
+    "waitingList": "504",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Northamptonshire",
+    "localAuthShortname": "south-northamptonshire",
+    "waitingList": "337",
+    "housesBuilt": 24
+  },
+  {
+    "localAuth": "South Oxfordshire",
+    "localAuthShortname": "south-oxfordshire",
+    "waitingList": "2,417",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Ribble",
+    "localAuthShortname": "south-ribble",
+    "waitingList": "886",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "South Somerset",
+    "localAuthShortname": "south-somerset",
+    "waitingList": "1,873",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "South Staffordshire",
+    "localAuthShortname": "south-staffordshire",
+    "waitingList": "614",
+    "housesBuilt": 7
+  },
+  {
+    "localAuth": "South Tyneside",
+    "localAuthShortname": "south-tyneside",
+    "waitingList": "1,659",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Southampton",
+    "localAuthShortname": "southampton",
+    "waitingList": "8,351",
+    "housesBuilt": 8
+  },
+  {
+    "localAuth": "Southend-on-Sea",
+    "localAuthShortname": "southend-on-sea",
+    "waitingList": "972",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Southwark",
+    "localAuthShortname": "southwark",
+    "waitingList": "6,778",
+    "housesBuilt": 60
+  },
+  {
+    "localAuth": "Spelthorne",
+    "localAuthShortname": "spelthorne",
+    "waitingList": "2,179",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "St Albans",
+    "localAuthShortname": "st-albans",
+    "waitingList": "395",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "St. Helens",
+    "localAuthShortname": "st-helens",
+    "waitingList": "1,280",
+    "housesBuilt": 35
+  },
+  {
+    "localAuth": "Staffordshire Moorlands",
+    "localAuthShortname": "staffordshire-moorlands",
+    "waitingList": "681",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Stevenage",
+    "localAuthShortname": "stevenage",
+    "waitingList": "2,121",
+    "housesBuilt": 17
+  },
+  {
+    "localAuth": "Stockport",
+    "localAuthShortname": "stockport",
+    "waitingList": "5,822",
+    "housesBuilt": 16
+  },
+  {
+    "localAuth": "Stockton-on-Tees",
+    "localAuthShortname": "stockton-on-tees",
+    "waitingList": "4,307",
+    "housesBuilt": 7
+  },
+  {
+    "localAuth": "Stoke-on-Trent",
+    "localAuthShortname": "stoke-on-trent",
+    "waitingList": "2,497",
+    "housesBuilt": 167
+  },
+  {
+    "localAuth": "Stratford-on-Avon",
+    "localAuthShortname": "stratford-on-avon",
+    "waitingList": "3,777",
+    "housesBuilt": 258
+  },
+  {
+    "localAuth": "Stroud",
+    "localAuthShortname": "stroud",
+    "waitingList": "3,001",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Sunderland",
+    "localAuthShortname": "sunderland",
+    "waitingList": "2,305",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Surrey Heath",
+    "localAuthShortname": "surrey-heath",
+    "waitingList": "427",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Sutton",
+    "localAuthShortname": "sutton",
+    "waitingList": "1,587",
+    "housesBuilt": 11
+  },
+  {
+    "localAuth": "Swale",
+    "localAuthShortname": "swale",
+    "waitingList": "1,102",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Swindon",
+    "localAuthShortname": "swindon",
+    "waitingList": "1,989",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Tameside",
+    "localAuthShortname": "tameside",
+    "waitingList": "4,081",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Tamworth",
+    "localAuthShortname": "tamworth",
+    "waitingList": "1,372",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Tandridge",
+    "localAuthShortname": "tandridge",
+    "waitingList": "1,399",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Teignbridge",
+    "localAuthShortname": "teignbridge",
+    "waitingList": "998",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Telford and Wrekin",
+    "localAuthShortname": "telford-and-wrekin",
+    "waitingList": "2,374",
+    "housesBuilt": 53
+  },
+  {
+    "localAuth": "Tendring",
+    "localAuthShortname": "tendring",
+    "waitingList": "1,362",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Test Valley",
+    "localAuthShortname": "test-valley",
+    "waitingList": "2,010",
+    "housesBuilt": 56
+  },
+  {
+    "localAuth": "Tewkesbury",
+    "localAuthShortname": "tewkesbury",
+    "waitingList": "1,964",
+    "housesBuilt": 12
+  },
+  {
+    "localAuth": "Thanet",
+    "localAuthShortname": "thanet",
+    "waitingList": "2,423",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Three Rivers",
+    "localAuthShortname": "three-rivers",
+    "waitingList": "686",
+    "housesBuilt": 48
+  },
+  {
+    "localAuth": "Thurrock",
+    "localAuthShortname": "thurrock",
+    "waitingList": "8,826",
+    "housesBuilt": 182
+  },
+  {
+    "localAuth": "Tonbridge and Malling",
+    "localAuthShortname": "tonbridge-and-malling",
+    "waitingList": "1,148",
+    "housesBuilt": 2
+  },
+  {
+    "localAuth": "Torbay",
+    "localAuthShortname": "torbay",
+    "waitingList": "1,074",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Torridge",
+    "localAuthShortname": "torridge",
+    "waitingList": "1,595",
+    "housesBuilt": 8
+  },
+  {
+    "localAuth": "Tower Hamlets",
+    "localAuthShortname": "tower-hamlets",
+    "waitingList": "18,808",
+    "housesBuilt": 162
+  },
+  {
+    "localAuth": "Trafford",
+    "localAuthShortname": "trafford",
+    "waitingList": "3,612",
+    "housesBuilt": 8
+  },
+  {
+    "localAuth": "Tunbridge Wells",
+    "localAuthShortname": "tunbridge-wells",
+    "waitingList": "836",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Uttlesford",
+    "localAuthShortname": "uttlesford",
+    "waitingList": "1,112",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Vale of White Horse",
+    "localAuthShortname": "vale-of-white-horse",
+    "waitingList": "2,113",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Wakefield",
+    "localAuthShortname": "wakefield",
+    "waitingList": "25,480",
+    "housesBuilt": 87
+  },
+  {
+    "localAuth": "Walsall",
+    "localAuthShortname": "walsall",
+    "waitingList": "11,924",
+    "housesBuilt": 33
+  },
+  {
+    "localAuth": "Waltham Forest",
+    "localAuthShortname": "waltham-forest",
+    "waitingList": "7,330",
+    "housesBuilt": 35
+  },
+  {
+    "localAuth": "Wandsworth",
+    "localAuthShortname": "wandsworth",
+    "waitingList": "5,202",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Warrington",
+    "localAuthShortname": "warrington",
+    "waitingList": "3,345",
+    "housesBuilt": 5
+  },
+  {
+    "localAuth": "Warwick",
+    "localAuthShortname": "warwick",
+    "waitingList": "2,337",
+    "housesBuilt": 104
+  },
+  {
+    "localAuth": "Watford",
+    "localAuthShortname": "watford",
+    "waitingList": "561",
+    "housesBuilt": 6
+  },
+  {
+    "localAuth": "Waverley",
+    "localAuthShortname": "waverley",
+    "waitingList": "1,093",
+    "housesBuilt": 1
+  },
+  {
+    "localAuth": "Wealden",
+    "localAuthShortname": "wealden",
+    "waitingList": "794",
+    "housesBuilt": 4
+  },
+  {
+    "localAuth": "Wellingborough",
+    "localAuthShortname": "wellingborough",
+    "waitingList": "631",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Welwyn Hatfield",
+    "localAuthShortname": "welwyn-hatfield",
+    "waitingList": "2,286",
+    "housesBuilt": 14
+  },
+  {
+    "localAuth": "West Berkshire",
+    "localAuthShortname": "west-berkshire",
+    "waitingList": "1,247",
+    "housesBuilt": 46
+  },
+  {
+    "localAuth": "West Devon",
+    "localAuthShortname": "west-devon",
+    "waitingList": "718",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "West Lancashire",
+    "localAuthShortname": "west-lancashire",
+    "waitingList": "710",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "West Lindsey",
+    "localAuthShortname": "west-lindsey",
+    "waitingList": "981",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "West Oxfordshire",
+    "localAuthShortname": "west-oxfordshire",
+    "waitingList": "2,684",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "West Suffolk",
+    "localAuthShortname": "west-suffolk",
+    "waitingList": "2,256",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Westminster",
+    "localAuthShortname": "westminster",
+    "waitingList": "3,907",
+    "housesBuilt": 47
+  },
+  {
+    "localAuth": "Wigan",
+    "localAuthShortname": "wigan",
+    "waitingList": "4,152",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Wiltshire",
+    "localAuthShortname": "wiltshire",
+    "waitingList": "2,425",
+    "housesBuilt": 6
+  },
+  {
+    "localAuth": "Winchester",
+    "localAuthShortname": "winchester",
+    "waitingList": "1,648",
+    "housesBuilt": 35
+  },
+  {
+    "localAuth": "Windsor and Maidenhead",
+    "localAuthShortname": "windsor-and-maidenhead",
+    "waitingList": "436",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Wirral",
+    "localAuthShortname": "wirral",
+    "waitingList": "8,939",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Woking",
+    "localAuthShortname": "woking",
+    "waitingList": "1,556",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Wokingham",
+    "localAuthShortname": "wokingham",
+    "waitingList": "1,613",
+    "housesBuilt": 246
+  },
+  {
+    "localAuth": "Wolverhampton",
+    "localAuthShortname": "wolverhampton",
+    "waitingList": "7,310",
+    "housesBuilt": 6
+  },
+  {
+    "localAuth": "Worcester",
+    "localAuthShortname": "worcester",
+    "waitingList": "3,867",
+    "housesBuilt": 33
+  },
+  {
+    "localAuth": "Worthing",
+    "localAuthShortname": "worthing",
+    "waitingList": "1,334",
+    "housesBuilt": 0
+  },
+  {
+    "localAuth": "Wychavon",
+    "localAuthShortname": "wychavon",
+    "waitingList": "2,425",
+    "housesBuilt": 186
+  },
+  {
+    "localAuth": "Wycombe",
+    "localAuthShortname": "wycombe",
+    "waitingList": "1,309",
+    "housesBuilt": 35
+  },
+  {
+    "localAuth": "Wyre Forest",
+    "localAuthShortname": "wyre-forest",
+    "waitingList": "3,427",
+    "housesBuilt": 3
+  },
+  {
+    "localAuth": "Wyre",
+    "localAuthShortname": "wyre",
+    "waitingList": "4,452",
+    "housesBuilt": 2
+  },
+  {
+    "localAuth": "York",
+    "localAuthShortname": "york",
+    "waitingList": "1,161",
+    "housesBuilt": 36
+  }
+]
