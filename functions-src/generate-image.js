@@ -1,5 +1,5 @@
 const axios = require("axios")
-const { createCanvas, loadImage } = require("canvas")
+const { createCanvas, loadImage } = require("canvas-prebuilt")
 
 // exports.handler = (event, context, callback) => {
 //   axios
