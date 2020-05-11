@@ -1,4 +1,4 @@
-const { createCanvas, close } = require("puppet-canvas")
+const { createCanvas, close } = require('puppet-canvas')
 
 exports.handler = async (event, context, callback) => {
   const canvas = await createCanvas(400, 400)
