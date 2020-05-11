@@ -7,7 +7,7 @@ const ImgTest = () => {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
   const [err, setErr] = useState("")
-  const [image, setImage] = useState(null)
+  const [image, setImage] = useState("https://res.cloudinary.com/dk5jxmsza/image/upload/v1588260297/cards/blank-card.png")
 
   useEffect(() => {
     // console.log("use effect")
@@ -34,7 +34,7 @@ const ImgTest = () => {
     })
       .then(response => response.json())
       .then(data => {
-        setImage(data.image)
+        // setImage(data.image)
         console.log("Success:", data)
       })
       .catch(error => {
