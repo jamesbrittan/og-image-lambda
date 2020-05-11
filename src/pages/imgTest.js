@@ -7,7 +7,9 @@ const ImgTest = () => {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
   const [err, setErr] = useState("")
-  const [image, setImage] = useState("https://res.cloudinary.com/dk5jxmsza/image/upload/v1588260297/cards/blank-card.png")
+  const [image, setImage] = useState(
+    "https://res.cloudinary.com/dk5jxmsza/image/upload/v1588260297/cards/blank-card.png"
+  )
 
   useEffect(() => {
     // console.log("use effect")
@@ -45,9 +47,10 @@ const ImgTest = () => {
 
   return (
     <Layout>
-      <SEO title="Local image stats" metaImage={image}/>
+      <SEO title="Local image stats" metaImage={image} />
       {/* <img src={image} /> */}
-      <img src={`data:image/svg+xml;utf8,${image}`} />
+      {/* <img src={`data:image/svg+xml;utf8,${image}`} /> */}
+      <img src={image} />
       <div>test</div>
     </Layout>
   )
