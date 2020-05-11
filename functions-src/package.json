@@ -2,7 +2,7 @@
   "name": "functions-src",
   "version": "1.0.0",
   "description": "",
-  "main": "auth-hello.js",
+  "main": "generate-image.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
