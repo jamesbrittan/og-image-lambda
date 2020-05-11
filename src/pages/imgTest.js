@@ -35,6 +35,7 @@ const ImgTest = () => {
       .then(response => response.json())
       .then(data => {
         setImage(data.image)
+
         console.log("Success:", data)
       })
       .catch(error => {
