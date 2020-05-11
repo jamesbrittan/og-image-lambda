@@ -76,7 +76,7 @@ exports.handler = (event, context, callback) => {
       // console.log(res.data[0])
       // console.log(qs.stringify(event.queryStringParameters))
 
-      const image = drawImage(JSON.stringify(res.data[12]))
+      // const image = drawImage(JSON.stringify(res.data[12]))
 
       callback(null, {
         statusCode: 200,
