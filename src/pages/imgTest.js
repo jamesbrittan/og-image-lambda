@@ -44,7 +44,7 @@ const ImgTest = () => {
 
   return (
     <Layout>
-      <SEO title="Local image stats test" metaImage={image}/>
+      <SEO title="Local image stats" metaImage={image}/>
       <img src={image} />
       <div>test</div>
     </Layout>
