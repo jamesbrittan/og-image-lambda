@@ -28,7 +28,10 @@ const ImgTest = () => {
 
     //   })
 
-    fetch("/.netlify/functions/puppet-canvas-test", {
+
+
+
+    fetch("/.netlify/functions/take-screenshot", {
       // method: "POST", // or 'PUT'
       headers: {
         "Content-Type": "application/json",
