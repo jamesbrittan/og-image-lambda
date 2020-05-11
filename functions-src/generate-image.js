@@ -21,8 +21,6 @@ const axios = require("axios")
 //       callback(`${err} + RESFDGHDGSRIADSFGJBVHFGJ`)
 //     })
 
-const chromium = require("chrome-aws-lambda")
-const puppeteer = require("puppeteer")
 const { createCanvas, close } = require("puppet-canvas")
 
 exports.handler = async (event, context, callback) => {
