@@ -28,7 +28,7 @@ const ImgTest = () => {
 
     //   })
 
-    fetch("/.netlify/functions/generate-image?city=cornwall", {
+    fetch("/.netlify/functions/puppet-canvas-test", {
       // method: "POST", // or 'PUT'
       headers: {
         "Content-Type": "application/json",

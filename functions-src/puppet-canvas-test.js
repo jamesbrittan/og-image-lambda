@@ -1,26 +1,3 @@
-const axios = require("axios")
-
-// axios
-//     .get("https://api.npoint.io/8bca2a2617a6afc15198")
-//     .then(res => {
-//       // console.log(res.data[0])
-//       // console.log(qs.stringify(event.queryStringParameters))
-
-//       // const image = drawImage(JSON.stringify(res.data[12]))
-
-//       callback(null, {
-//         statusCode: 200,
-//         // body: JSON.stringify({ ...res.data[12], image: image }),
-//         body: JSON.stringify({
-//           ...res.data[12],
-//           image: drawCircle(res.data[12].localAuth),
-//         }),
-//       })
-//     })
-//     .catch(err => {
-//       callback(`${err} + RESFDGHDGSRIADSFGJBVHFGJ`)
-//     })
-
 const { createCanvas, close } = require("puppet-canvas")
 
 exports.handler = async (event, context, callback) => {
