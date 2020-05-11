@@ -1,4 +1,6 @@
 const axios = require("axios")
+const D3Node = require("d3-node")
+
 // const { createCanvas, loadImage } = require("canvas")
 
 // exports.handler = (event, context, callback) => {
@@ -65,10 +67,41 @@ exports.handler = (event, context, callback) => {
 
   //   })
 
-
-
   //   return canvas.toDataURL("image/png")
   // }
+
+  const drawCircle = placeName => {
+    const d3n = new D3Node() // initializes D3 with container element
+    const d3 = d3n.d3
+
+    // console.log(d3n);
+    // d3n.select('svg');
+
+    const width = 800
+    const height = 600
+
+    const svg = d3n.createSVG(width, height)
+
+    const circle = svg
+      // .append("circle")
+      // .attr("r", height / 2)
+      // .attr("cx", width / 2)
+      // .attr("cy", height / 2)
+      // .attr("fill", "none")
+      // .attr("stroke", "black")
+      // .attr("fill-opacity", 0)
+      // // .append("g")
+      .append("g")
+      .append("text")
+      .attr("y", height / 2)
+      .attr("x", height / 2)
+      // .attr("dx", -20)
+      .text(placeName)
+
+    const svgString = d3n.svgString()
+
+    return svgString
+  }
 
   axios
     .get("https://api.npoint.io/8bca2a2617a6afc15198")
@@ -81,7 +114,10 @@ exports.handler = (event, context, callback) => {
       callback(null, {
         statusCode: 200,
         // body: JSON.stringify({ ...res.data[12], image: image }),
-        body: JSON.stringify({ ...res.data[12]}),
+        body: JSON.stringify({
+          ...res.data[12],
+          image: drawCircle(res.data[12].localAuth),
+        }),
       })
     })
     .catch(err => {

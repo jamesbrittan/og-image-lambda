@@ -34,7 +34,7 @@ const ImgTest = () => {
     })
       .then(response => response.json())
       .then(data => {
-        // setImage(data.image)
+        setImage(data.image)
         console.log("Success:", data)
       })
       .catch(error => {
@@ -45,7 +45,8 @@ const ImgTest = () => {
   return (
     <Layout>
       <SEO title="Local image stats" metaImage={image}/>
-      <img src={image} />
+      {/* <img src={image} /> */}
+      <img src={`data:image/svg+xml;utf8,${image}`} />
       <div>test</div>
     </Layout>
   )
