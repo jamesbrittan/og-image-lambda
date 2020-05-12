@@ -53,7 +53,7 @@ const ImgTest = () => {
       <SEO title="Local image stats" metaImage={image} />
       {/* <img src={image} /> */}
       {/* <img src={`data:image/svg+xml;utf8,${image}`} /> */}
-      <img src={image} />
+      <img src={`data:image/svg+xml;utf8,${image}`} />
       <div>test</div>
     </Layout>
   )

@@ -21,7 +21,9 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
-    "react-netlify-identity-widget": "^0.2.5"
+    "react-netlify-identity-widget": "^0.2.5",
+    "svg.js": "^2.7.1",
+    "svgdom": "^0.1.7"
   },
   "keywords": [
     "gatsby"

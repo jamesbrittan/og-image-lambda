@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.6.1"
+    "@svgdotjs/svg.js": "^3.0.16",
+    "svg.js": "^2.7.1",
+    "svgdom": "^0.1.7"
   }
 }
