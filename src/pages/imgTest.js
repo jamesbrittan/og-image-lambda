@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState, useRef } from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -7,9 +7,8 @@ const ImgTest = () => {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
   const [err, setErr] = useState("")
-  const [image, setImage] = useState(
-    "https://res.cloudinary.com/dk5jxmsza/image/upload/v1588260297/cards/blank-card.png"
-  )
+  const [image, setImage] = useState(null)
+  const canvas = useRef(null)
 
   useEffect(() => {
     // console.log("use effect")
@@ -28,9 +27,6 @@ const ImgTest = () => {
 
     //   })
 
-
-
-
     fetch("/.netlify/functions/take-screenshot", {
       // method: "POST", // or 'PUT'
       headers: {
@@ -39,6 +35,23 @@ const ImgTest = () => {
     })
       .then(response => response.json())
       .then(data => {
+        // const ctx = canvas.current.getContext("2d")
+
+        // const img = new Image()
+        // const svg = new Blob([data.image], { type: "image/svg+xml" })
+        // const url = URL.createObjectURL(svg)
+        // img.src = url
+
+        // console.log(url)
+        // img.onload = () => {
+        //   ctx.drawImage(img, 0, 0)
+        //   // setImage(canvas.current.toDataURL("image/png"))
+        // }
+
+        // setImage(url)
+        // console.log
+        // ctx.save()
+
         setImage(data.image)
 
         console.log("Success:", data)
@@ -51,10 +64,8 @@ const ImgTest = () => {
   return (
     <Layout>
       <SEO title="Local image stats" metaImage={image} />
-      {/* <img src={image} /> */}
       {/* <img src={`data:image/svg+xml;utf8,${image}`} /> */}
-      <img src={`data:image/svg+xml;utf8,${image}`} />
-      <div>test</div>
+      <img src={image} />
     </Layout>
   )
 }
